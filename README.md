@@ -4,11 +4,11 @@
 
 ## Pitch Deck
 
-Pitch deck link: `https://docs.google.com/presentation/d/1sOgKIIYKh-xD9OPt7iO2OjCYzix0ab-OFFuoRIBQBbA/edit?usp=sharing`
+Pitch deck link: https://docs.google.com/presentation/d/1sOgKIIYKh-xD9OPt7iO2OjCYzix0ab-OFFuoRIBQBbA/edit?usp=sharing
 
 ## Recorded Video
 
-Demo video link: `https://youtu.be/nf_ZuXx6_YI?si=zbo0m9UOnZfJaPm3`
+Demo video link: https://youtu.be/nf_ZuXx6_YI?si=zbo0m9UOnZfJaPm3
 
 ## Source Code
 
