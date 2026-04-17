@@ -4,11 +4,11 @@
 
 ## Pitch Deck
 
-Pitch deck link: `<ADD_PUBLIC_PITCH_DECK_LINK_HERE>`
+Pitch deck link: `https://docs.google.com/presentation/d/1sOgKIIYKh-xD9OPt7iO2OjCYzix0ab-OFFuoRIBQBbA/edit?usp=sharing`
 
 ## Recorded Video
 
-Demo video link: `<ADD_PUBLIC_DEMO_VIDEO_LINK_HERE>`
+Demo video link: `https://youtu.be/nf_ZuXx6_YI?si=zbo0m9UOnZfJaPm3`
 
 ## Source Code
 
